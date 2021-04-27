@@ -23,7 +23,7 @@ def scrape_all():
     }
     # a new dictionary 
 
-    data2{}
+    data2 = {}
 
     # Stop webdriver and return data
     browser.quit()
